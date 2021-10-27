@@ -101,7 +101,7 @@ for(let i = 1; i <= 10; i++){
 
 let score = 0
 let passingScore = 7
-
+console.log(`hello f13`)
 ////////// PROBLEM 8 //////////
 
 /*
